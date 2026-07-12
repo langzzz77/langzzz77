@@ -1,1 +1,2 @@
-![Banner](assets/banner.svt)
+![Banner](assets/banner.xml)
+<!-- <img src="assets/banner.xml">  -->
