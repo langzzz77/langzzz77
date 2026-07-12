@@ -1,4 +1,43 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=435&lines=Welcome+to+my+GitHub!;JavaScript+Learner;Future+Fullstack+Developer)](https://git.io/typing-svg)
-![Stats](https://github-readme-stats.vercel.app/api?username=langzzz77&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=langzzz77&layout=compact&theme=tokyonight)
+<div align="center">
 
+# Welcome.
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=22&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by.;Hope+you+find+something+interesting.;Enjoy+your+stay." />
+
+<br>
+
+> *"Every project begins with curiosity."*
+
+<br><br>
+
+```
+
+```
+          ╭──────────────────────────────╮
+          │                              │
+          │   Take a look around. 👀     │
+          │                              │
+          ╰──────────────────────────────╯
+```
+
+<br>
+
+---
+
+### 🌙
+
+> This place is slowly growing.
+>
+> Some ideas become code.
+>
+> Some experiments become projects.
+>
+> And some are simply here to remind me how far I've come.
+
+---
+
+<div align="center">
+
+### ✨ Have a wonderful day.
+
+</div>
