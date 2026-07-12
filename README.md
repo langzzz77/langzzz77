@@ -1,43 +1,36 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hayolo, Saya <a href="https://github.com/langzzz77">langzzz77</a>!
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Welcome&fontAlign=50&fontAlignY=38&fontSize=65&animation=fadeIn"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=500&lines=Masih+Newbie+Bgt+Ini;Belajar+HTML+%26+CSS+Dulu;Ngoding+Sambil+Ngebug;Santuy+Yang+Penting+Happy" alt="Typing SVG" />
+</p>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=28&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub.;Enjoy+your+stay.;Something+awesome+is+always+under+construction."/>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2N6Z3M2YzJhNG85a3I4bjA5bGNkcDY1MWJzMWx6d3JnN2dtNnd2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="600"/>
-
-</div>
-
----
-
-# 👋 Hello there
-
-Thanks for visiting my profile.
-
-Take your time, look around, and enjoy the journey.
-
-Some repositories are complete.
-
-Some are experiments.
-
-Some are simply ideas waiting for the right moment.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=langzzz77&label=VIEWERS&color=00ffaa&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Belajar%20Terus-00ffaa?style=flat" alt="Status" />
+</p>
 
 ---
 
-<div align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="350"/>
-
-</div>
+### 🧑‍💻 **Siapa Sih Aku?**
+*   Manusia biasa yang lagi **jatuh cinta** sama HTML & CSS.
+*   Sekarang lagi **merangkak** pelan-pelan di dunia front-end.
+*   Kalo liat kodingan aku masih **berantakan**, ya wajar lah baru belajar 😅
+*   Tujuan: pengen bisa bikin web yang **keren** dan **responsif**.
+*   Fun fact: Lebih sering ngoding di **jam 2 pagi** daripada siang hari.
 
 ---
 
-<div align="center">
+### 📚 **Apa Yang Lagi Dipelajari?**
+**(Masih tahap bocah ingusan, hehe)**
 
-### ✨ Have a wonderful day ✨
+```markdown
+## 🛠️ Skill & Learning Path
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
+**Target selanjutnya (biar naik level):**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
