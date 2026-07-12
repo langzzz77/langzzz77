@@ -1,1 +1,1 @@
-![Bamner](assets/banner.svt)
+![Banner](assets/banner.svt)
