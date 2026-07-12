@@ -1,2 +1,2 @@
-![Banner](assets/banner.xml)
+![Banner](assets/banner.svg)
 <!-- <img src="assets/banner.xml">  -->
